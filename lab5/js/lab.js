@@ -27,11 +27,6 @@ function myFunction(param1, param2)
 {
   // some code here
   // return results;
-  document.writeln("Make: " + make + "<br>"); 
-  document.writeln("Model: " + model + "<br>"); 
-  document.writeln("Color: " + color + "<br>"); 
-  document.writeln("Year: " + year + "<br>"); 
-  document.writeln("Age: " + age + " years<br>"); 
 }
 
 function main() 
