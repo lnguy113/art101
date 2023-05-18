@@ -27,10 +27,20 @@ p
 #content
 {
   background-color: #eab0c9;;
-  width: 850px; 
+  width: 1250px; 
   min-height: 400px;
   padding: 10px;
   margin: 10px;
   border: solid 1px #c41b64;
   font-size: 20px;
+}
+
+#output {
+  position: absolute;
+  right: 10px;
+  padding: 90px;
+  border-radius: 20px;
+  border: solid 2px black;
+  background-color: white;
+  width: 600px;
 }
